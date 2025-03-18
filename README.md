@@ -1,7 +1,5 @@
 # Data_COVID-19
 
-Here’s the description in English:
-
 **COVID-19 Data for Several Cities in the State of São Paulo**
 
 **Presidente Prudente and Surrounding Region**  
