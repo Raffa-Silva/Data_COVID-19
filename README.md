@@ -21,3 +21,5 @@ The data is used for simulating COVID-19 cases and testing containment strategie
    - The second sheet contains the 2021 data.
 
 The CSV files are separated by a semicolon (`;`) delimiter, which is common for datasets in Brazil. You can access and analyze the data in CSV or Excel format as needed.
+
+And in the 'data' folder, we have 'data_mobility,' which contains the tables with the population arrangement data from which the mobility data were extracted.
